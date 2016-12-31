@@ -12,6 +12,8 @@
   <description>
       Simple Bible Study Application
   </description>
+    
+  <icon src="images/logo.png" width="75" height="75" density="mdpi" />
 
   <author href="http://mfmjalingoonline.com" email="mfmjalingo@gmail.com">
       Fortune Odesanya
